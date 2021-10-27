@@ -1,5 +1,3 @@
-# Maintainer: William Tang <galaxyking0419@gmail.com>
-
 _mayaver=2022
 
 pkgname=maya-rokoko-motion-library

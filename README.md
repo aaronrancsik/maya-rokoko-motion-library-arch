@@ -10,7 +10,7 @@
 ### 2. Get the source zip.
 `cd /tmp/maya-rokoko-motion-library-arch`
 
-`cp /tmp/maya20221_BIG/Packages/package.zip ./`
+`cp /tmp/maya20221_BIG/Packages/RokokoMotionLibraryMaya2022-2.0.0-1.x86_64.rpm ./`
 ### 3. Create & install the package.
 `makepkg -s`
 
